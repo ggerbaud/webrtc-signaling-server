@@ -1,0 +1,4 @@
+logging:
+  level:
+    ROOT: INFO
+    fr.mabreizh: DEBUG
